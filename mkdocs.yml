@@ -1,7 +1,0 @@
-markdown_extensions:
-  - attr_list
-  
-plugins:
-  - privacy:
-      external_links_attr_map:
-        target: _blank

@@ -17,3 +17,8 @@
 - https://github.com/Sage-Bionetworks/minidream-r-env
 - https://github.com/Sage-Bionetworks/synapseAnnotations
 - https://github.com/Sage-Bionetworks/synAnnotationUtils
+- https://github.com/Sage-Bionetworks/annotationUI
+
+Other/Private contributions ex. 
+- Reactome: reatome2embeddings 
+- Sage Bionetworks: TESLA dream challenge, multiple myeloma dream challenge 

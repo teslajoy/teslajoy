@@ -27,7 +27,7 @@
 - https://github.com/Sage-Bionetworks/annotationUI
 
 Other contributions ex. 
-- Reactome: reatome2embeddings, [Reactome IDG](https://idg.reactome.org/) , [VIGET](https://zenodo.org/record/7407195#.Y-B5DezML8c)
+- Reactome: reatome2embeddings, <a href="https://idg.reactome.org/" target="_blank">Reactome IDG</a>, [VIGET](https://zenodo.org/record/7407195#.Y-B5DezML8c)
 - Sage Bionetworks: [Tumor NeoEpitope Selection Alliance (TESLA) dream challenge](https://www.parkerici.org/research-project/tumor-neoantigen-selection-alliance-tesla/), [Multiple Myeloma dream challenge](https://sagebionetworks.org/research-projects/multiple-myeloma-dream-challenge/)
 
 <!--

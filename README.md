@@ -14,5 +14,6 @@
 
 #### SAGE BIONETWORKS
 - https://github.com/Sage-Bionetworks/synapsePythonClient
-- https://github.com/Sage-Bionetworks/synapseAnnotations
 - https://github.com/Sage-Bionetworks/minidream-r-env
+- https://github.com/Sage-Bionetworks/synapseAnnotations
+- https://github.com/Sage-Bionetworks/synAnnotationUtils

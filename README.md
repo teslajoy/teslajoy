@@ -1,4 +1,4 @@
-<h1 align='left'> Hi! 👋 </h1>
+<!-- <h2 align='left'> Hi! 👋 </h2> --> 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nasim-sanati/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=LinkedIn&logoColor=0A66C2"></a> 
@@ -30,7 +30,7 @@ Other contributions ex.
 - Reactome: reatome2embeddings, [Reactome IDG](https://idg.reactome.org/) , [VIGET](https://zenodo.org/record/7407195#.Y-B5DezML8c)
 - Sage Bionetworks: [Tumor NeoEpitope Selection Alliance (TESLA) dream challenge](https://www.parkerici.org/research-project/tumor-neoantigen-selection-alliance-tesla/), [Multiple Myeloma dream challenge](https://sagebionetworks.org/research-projects/multiple-myeloma-dream-challenge/)
 
-
+<!--
 <p align="center">
 
 ![teslajoy's github stats](https://github-readme-stats.vercel.app/api?username=teslajoy&hide=stars&show_icons=true&theme=dracula)
@@ -41,3 +41,4 @@ Other contributions ex.
 
   </sup>
 </p>
+-->

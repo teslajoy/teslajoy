@@ -1,5 +1,3 @@
-:books: CONTEMPLATE + DRAW + SYNTHESIZE + LOVE THE PROCESS :books:
------
 #### Open Source Contributions
 #### REACTOME
 ##### co-maintainer

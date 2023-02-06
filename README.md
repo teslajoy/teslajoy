@@ -32,13 +32,9 @@ Other contributions ex.
 
 <!--
 <p align="center">
-
 ![teslajoy's github stats](https://github-readme-stats.vercel.app/api?username=teslajoy&hide=stars&show_icons=true&theme=dracula)
-
   <sup>
-
   _widget by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)_
-
   </sup>
 </p>
 -->

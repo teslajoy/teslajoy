@@ -19,6 +19,6 @@
 - https://github.com/Sage-Bionetworks/synAnnotationUtils
 - https://github.com/Sage-Bionetworks/annotationUI
 
-Other/Private contributions ex. 
+Other contributions ex. 
 - Reactome: reatome2embeddings 
 - Sage Bionetworks: TESLA dream challenge, multiple myeloma dream challenge 

@@ -16,9 +16,10 @@
 - https://pypi.org/project/scpy4reactome/
 
 #### Google Summer of Code mentor (2021)
-- https://github.com/reactome/descartes_rpa
-- https://github.com/reactome/reactome_gnn
-
+- [Reactome Pathway Embeddings](https://summerofcode.withgoogle.com/archive/2021/projects/5753303614357504)
+- [Single-Cell Pathway Activity Annotation Pipeline](https://summerofcode.withgoogle.com/archive/2021/projects/6004582722830336)
+  - [Utilized Data: Descartes Human Gene Expression During Development](https://descartes.brotmanbaty.org/bbi/human-gene-expression-during-development/)
+    
 #### SAGE BIONETWORKS
 - https://github.com/Sage-Bionetworks/synapsePythonClient
 - https://github.com/Sage-Bionetworks/minidream-r-env

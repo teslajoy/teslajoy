@@ -1,5 +1,3 @@
-<!-- <h2 align='left'> Hi! 👋 </h2> --> 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/nasim-sanati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://scholar.google.com/citations?user=c5X3aSUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-ffffff?style=for-the-badge&logo=Google-Scholar&logoColor=72bcd4"></a> 
@@ -30,4 +28,4 @@
 Other contributions ex. 
 - Reactome: reactome2embeddings, [Reactome IDG](https://idg.reactome.org/), [VIGET](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1141030/abstract)
 - Sage Bionetworks: [Tumor NeoEpitope Selection Alliance (TESLA) dream challenge](https://www.parkerici.org/research-project/tumor-neoantigen-selection-alliance-tesla/), [Multiple Myeloma dream challenge](https://sagebionetworks.org/research-projects/multiple-myeloma-dream-challenge/)
-
+- 

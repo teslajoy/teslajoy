@@ -5,4 +5,5 @@
   <a href="https://orcid.org/0000-0001-6681-0418" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white"></a>
 </p>
 
-**Currently working on:** [Omicstra](https://teslajoy.github.io/omicstra/) - a multi-agent MCP server for cross-modal biomedical embedding alignment, evaluated on tumor microenvironment characterization.
+**Currently working on:** [Omicstra](https://teslajoy.github.io/omicstra/) - a multi-agent MCP server for cross-modal biomedical embedding alignment, evaluated on tumor microenvironment characterization.  
+[![DOI](https://img.shields.io/badge/DOI-10.55277%2Fresearchhub.6ou1w3h3-blue)](https://doi.org/10.55277/researchhub.6ou1w3h3)

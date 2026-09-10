@@ -8,5 +8,7 @@
   <a href="https://bsky.app/profile/teslajoy.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"></a>
 </p>
 
-**Currently working on:** [Omicstra](https://teslajoy.github.io/omicstra/) - a multi-agent MCP server for cross-modal biomedical embedding alignment, evaluated on tumor microenvironment characterization in spacial biology context.  
-[![DOI](https://img.shields.io/badge/DOI-10.55277%2Fresearchhub.6ou1w3h3-blue)](https://doi.org/10.55277/researchhub.6ou1w3h3)
+**Currently working on:** [omicstra](https://teslajoy.github.io/omicstra/) - a multi-agent MCP server for cross-modal embedding alignment and evidence-based routing in spatial biology, evaluated on tumor microenvironment characterization.  
+[![Software DOI](https://img.shields.io/badge/software-10.5281%2Fzenodo.22666752-1682D4)](https://doi.org/10.5281/zenodo.22666752)
+[![Proposal DOI](https://img.shields.io/badge/proposal-10.55277%2Fresearchhub.6ou1w3h3-blue)](https://doi.org/10.55277/researchhub.6ou1w3h3)
+[![PyPI](https://img.shields.io/pypi/v/omicstra)](https://pypi.org/project/omicstra/)
